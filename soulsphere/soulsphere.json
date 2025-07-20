@@ -4,10 +4,10 @@
   "author": [
     "Soulsphere"
   ],
-  "description": "real mod in the real mod in the real mod in the real mod in the real mod in the real mod in the real mod in the real mod in the real mod in the real mod in the real mod in the real mod in the real mod in the real mod in the real mod in the real mod in the real mod in the real mod in the real mod in the real mod in the real mod in the real mod in the real mod in the real mod in the real mod in the real mod in the real mod in the real mod in the real",
+  "description": "Balatro x TBOI mod by Soulsphere. Currently adds 24 jokers and 1 new enhancement. In active development.",
   "prefix": "balisaac",
   "main_file": "main.lua",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "priority": 0,
   "badge_colour": "994FEE",
   "badge_text_colour": "FFFFFF",
