@@ -3,7 +3,7 @@
 This mod, Balisaac, is my very first attempt at modding/coding in general. Expect bugs, and if they are found, please report them to me.
 
 BALISAAC CURRENTLY ADDS:
-- 24 Jokers
+- 27 Jokers
 - 1 new enhancement
 
 PLANNED ADDITIONS:
